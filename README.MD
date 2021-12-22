@@ -57,11 +57,3 @@
     <li> SM5308-93 : Code Refactoring - v1</li>
 </ol>
 
-<h3>Contributors</h3>
-<ul>
-    <li>Amrita Krishna</li>
-    <li>Gunish Katar</li>
-    <li>Rishita Kotiyal</li>
-    <li>Rahul Kodumuru</li>
-    <li>Venkata Sai Kiran</li>
-</ul>
